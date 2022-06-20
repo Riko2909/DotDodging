@@ -1,7 +1,7 @@
-#DotDodging
+# DotDodging
 
 ## Material
-For this Project to work you need## SmartyPants:
+For this Project to work you need:
 -  2 Raspberry PIs (3 or 4)
 -  4 LED-Matrix 8x8 stacked together
 - Python 3
